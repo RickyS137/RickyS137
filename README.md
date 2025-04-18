@@ -1,6 +1,6 @@
 ## Hello! I`m a React FrontEnd Developer 💻
 
-My name is Emir, and I'm a Frontend Developer currently working at Artwaga Group. I'm a passionate developer with experience in web development and a keen interest in creating beautiful, interactive, and intuitive user interfaces. My goal is to build efficient and scalable web applications that enhance the user experience on the Internet.
+My name is Emir, and I'm a Frontend Developer currently working at Codup Pro. I'm a passionate developer with experience in web development and a keen interest in creating beautiful, interactive, and intuitive user interfaces. My goal is to build efficient and scalable web applications that enhance the user experience on the Internet.
 
 
 ## My Stack ⭐
